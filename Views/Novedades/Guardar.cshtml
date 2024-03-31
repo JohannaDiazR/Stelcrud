@@ -63,12 +63,12 @@
 
 </nav>
 
-<div class="card">
+<div class="card" class="form-container" style="width: 600px; margin: 0 auto; padding: 20px;">
     <div class="card-header">
         Crear Novedades
     </div>
     <div class="card-body">
-        <form asp-action="Guardar" asp-controller="Novedades" method="post">
+        <form asp-action="Guardar" asp-controller="Novedades" method="post" class="form-container" style="width: 500px; margin: 0 auto; padding: 20px;">
             <div class="mb-3">
                 <label for="asunto_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Asunto Novedad</label>
                 <input type="text" asp-for="asunto_novedades" class="form-control" id="asunto" maxlength="65" placeholder="Asunto" required>
