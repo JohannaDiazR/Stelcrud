@@ -1,0 +1,114 @@
+﻿@model Stel.Models.NovedadesModel
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>STEL</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flaticon/4.7.0/css/flaticon.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.css" integrity="sha384-SvgVBzC0CNNDlGO2cUdkFJh3CEXNrLJXA2iFUJybIWJUBuKdNmLCYB5sZ1U19kB03" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="shortcout icon" href="~/0. Imagenes/0. Logos/3. logo sin  nombre blanco.png">
+    <link rel="stylesheet" type="text/css" href="~/css/2. Modulos.css">
+
+</head>
+
+<nav class="navbar navbar-expand-lg" style="background-color: #0c4128;padding: 0.5rem 0.5rem;">
+
+    <div class="container-fluid">
+
+        <a asp-controller="Home" asp-action="paginainicioModulos" class="navbar-brand">
+            <img src="~/0. Imagenes/0. Logos/3. logo sin  nombre blanco.png" alt="Logo" width="60" height="65" class="d-inline-block align-text-top">
+        </a>
+
+        <button class="navbar-toggler btn btn-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+
+            <ul class="navbar-nav">
+
+                <li class="nav-item fs-3">
+                    <a class="nav-link active text-white" aria-current="page" asp-controller="Home" asp-action="paginainicioModulos">
+                        STEL
+                    </a>
+                </li>
+                <li class="nav-item fs-3">
+                    <a class="nav-link text-white" asp-controller="Novedades" asp-action="Listar">
+                        <i class="bi bi-file-text text-white">Novedades</i>
+                    </a>
+                </li>
+
+                <li class="nav-item align-self-center">
+                    <a class="nav-link active text-white d-flex justify-content-end" aria-current="page" asp-controller="Home" asp-action="Index">
+                        <i class="bi bi-door-closed-fill">Salir</i>
+                    </a>
+                </li>
+
+
+            </ul>
+
+
+        </div>
+
+    </div>
+
+</nav>
+
+<div class="card">
+    <div class="card-header">
+        Editar Novedad
+    </div>
+    <div class="card-body">
+        <form asp-action="Editar" asp-controller="Novedades" method="post">
+
+            <input asp-for="id" type="hidden" class="form-control">
+            <div class="mb-3">
+                <label for="asunto_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Asunto Novedad</label>
+                <input type="text" asp-for="asunto_novedades" class="form-control" id="asunto" maxlength="65" placeholder="Asunto">
+                <span asp-validation-for="asunto_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="desc_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Descripción Novedad</label>
+                <input type="text" asp-for="desc_novedades" class="form-control" id="descripcion" maxlength="65" placeholder="Descripción">
+                <span asp-validation-for="desc_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="est_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Estado Novedad</label>
+                <input type="text" asp-for="est_novedades" class="form-control" id="estado" maxlength="65" placeholder="Estado">
+                <span asp-validation-for="est_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="fec_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Fecha Novedad</label>
+                <input type="date" asp-for="fec_novedades" class="form-control" id="fecha">
+                <span asp-validation-for="fec_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="rem_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Remitente Novedad</label>
+                <input type="text" asp-for="rem_novedades" class="form-control" id="remitente" aria-describedby="Remitente" maxlength="30" placeholder="Nombre" pattern="[A-Za-z\s]+" title="Ingresa solo letras y espacios">
+                <span asp-validation-for="rem_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="res_novedades" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Respuesta Novedad</label>
+                <input type="text" asp-for="res_novedades" class="form-control" id="respuesta" maxlength="65" placeholder="Respuesta">
+                <span asp-validation-for="res_novedades" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="tipo_novedad" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#74a587" class="form-label">Tipo Novedad</label>
+                <input type="text" asp-for="tipo_novedad" class="form-control" id="descripcion" maxlength="65" placeholder="Tipo Novedad (Residente/Vigilante/Todero/Admin)">
+                <span asp-validation-for="tipo_novedad" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <a asp-action="Listar" asp-controller="Novedades" class="btn btn-warning">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+

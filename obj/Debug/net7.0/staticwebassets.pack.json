@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Stel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Stel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\0. Logos\\0. logo y titulo.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\0. Logos\\0. logo y titulo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\0. Logos\\1. logo sin titulo.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\0. Logos\\1. logo sin titulo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\0. Logos\\2. logo sin  nombre negro.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\0. Logos\\2. logo sin  nombre negro.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\0. Logos\\3. logo sin  nombre blanco.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\0. Logos\\3. logo sin  nombre blanco.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\0. slider\\0.-sliderGestiónAdministración.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\0. slider\\0.-sliderGestiónAdministración.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\0. slider\\0.-slidersSTEL.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\0. slider\\0.-slidersSTEL.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\0. slider\\1.-sliderGestiónAlquiler.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\0. slider\\1.-sliderGestiónAlquiler.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\0. slider\\2.-sliderGestiónComunicación.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\0. slider\\2.-sliderGestiónComunicación.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\1. llamadoAccion\\imagenPixelArtLLamadoAccion.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\1. llamadoAccion\\imagenPixelArtLLamadoAccion.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\2. tecnologias\\0. py.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\2. tecnologias\\0. py.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\2. tecnologias\\1. css.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\2. tecnologias\\1. css.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\2. tecnologias\\2. html.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\2. tecnologias\\2. html.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\2. tecnologias\\3. js.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\2. tecnologias\\3. js.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\1. index\\2. tecnologias\\4. aws.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\1. index\\2. tecnologias\\4. aws.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\10. ModuloInicio\\0_cartaVoladora.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\10. ModuloInicio\\0_cartaVoladora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\10. ModuloInicio\\1_motoCarr0Estacionado.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\10. ModuloInicio\\1_motoCarr0Estacionado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\10. ModuloInicio\\2_carteraDocumentos.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\10. ModuloInicio\\2_carteraDocumentos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_guardia_seguridad.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_guardia_seguridad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_residente.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_residente.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_todero.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\11. moduloCreacionUsuario\\usuario_todero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\12. registroUsuarios\\registroUsuarioGuardiaSeguridad.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\12. registroUsuarios\\registroUsuarioGuardiaSeguridad.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\12. registroUsuarios\\registroUsuarioResidente.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\12. registroUsuarios\\registroUsuarioResidente.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\12. registroUsuarios\\registroUsuarioTodero.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\12. registroUsuarios\\registroUsuarioTodero.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\13. consultarUsuario\\usuarioConsultar.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\13. consultarUsuario\\usuarioConsultar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\13. consultarUsuario\\usuariosCreacionTrabajadores.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\13. consultarUsuario\\usuariosCreacionTrabajadores.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\0. manualConvivencia.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\0. manualConvivencia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\1. presupuesto.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\1. presupuesto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\10. actaAsamblea.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\10. actaAsamblea.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\2. cartera.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\2. cartera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\4. poliza.jpeg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\4. poliza.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\5. estadoFinanciero.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\5. estadoFinanciero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\6. actaAsamblea.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\6. actaAsamblea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\7. estCartera.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\7. estCartera.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\8. polizaDocumentos.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\8. polizaDocumentos.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\14. DocumentacionAdministracion\\9. estadoCartera.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\14. DocumentacionAdministracion\\9. estadoCartera.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\15. Multas\\0. Multa.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\15. Multas\\0. Multa.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\16. cartera\\0. cartera.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\16. cartera\\0. cartera.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\17. visitantes\\0. visitantes.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\17. visitantes\\0. visitantes.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\18. correspondencia\\0-cartera.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\18. correspondencia\\0-cartera.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\18. correspondencia\\1-paquetes.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\18. correspondencia\\1-paquetes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\18. correspondencia\\2-correspondenciaGeneral.jpg",
+      "PackagePath": "staticwebassets\\0. Imagenes\\18. correspondencia\\2-correspondenciaGeneral.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\18. correspondencia\\3-correspondenciaEspecifica.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\18. correspondencia\\3-correspondenciaEspecifica.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\0. logoGAES\\0. logoNombre.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\0. logoGAES\\0. logoNombre.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\0. juanesImagen.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\0. juanesImagen.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\1. johannaImagen.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\1. johannaImagen.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\2. davidImagen.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\1. integrantes\\2. davidImagen.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\2. valores\\0. corazonBrillando.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\2. valores\\0. corazonBrillando.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\2. sobreNosotros\\2. valores\\1. tresPersonasCorriendo.png",
+      "PackagePath": "staticwebassets\\0. Imagenes\\2. sobreNosotros\\2. valores\\1. tresPersonasCorriendo.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\3. contactenos\\0.-imagenForContacetenos.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\3. contactenos\\0.-imagenForContacetenos.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionAdministracion.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionAdministracion.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionAlquilerParqueadero.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionAlquilerParqueadero.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionComunicación.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\4. servicios\\0. explicacionModulos\\serviciosGestionComunicación.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\7. paginasComplementarias\\0. librosLeyes.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\7. paginasComplementarias\\0. librosLeyes.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\7. paginasComplementarias\\1.-hojasLeyes.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\7. paginasComplementarias\\1.-hojasLeyes.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\8. politicaPrivacidad\\0. candadoSeguridad.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\8. politicaPrivacidad\\0. candadoSeguridad.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0. Imagenes\\9. error404\\hombreConstruyendo.webp",
+      "PackagePath": "staticwebassets\\0. Imagenes\\9. error404\\hombreConstruyendo.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0.imagenes-2\\0.tarjetasModulos\\0.serviciosGestionAdministración.webp",
+      "PackagePath": "staticwebassets\\0.imagenes-2\\0.tarjetasModulos\\0.serviciosGestionAdministración.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0.imagenes-2\\0.tarjetasModulos\\1.serviciosGestionAlquiler.webp",
+      "PackagePath": "staticwebassets\\0.imagenes-2\\0.tarjetasModulos\\1.serviciosGestionAlquiler.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0.imagenes-2\\0.tarjetasModulos\\2.serviciosGestiondeComunicación.webp",
+      "PackagePath": "staticwebassets\\0.imagenes-2\\0.tarjetasModulos\\2.serviciosGestiondeComunicación.webp"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\0.imagenes-2\\1.AccesoDenegado\\accesoDenegado.jpg",
+      "PackagePath": "staticwebassets\\0.imagenes-2\\1.AccesoDenegado\\accesoDenegado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\css\\2. Modulos.css",
+      "PackagePath": "staticwebassets\\css\\2. Modulos.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\js\\0-validaciónFormularios\\0-formularioLoging.js",
+      "PackagePath": "staticwebassets\\js\\0-validaciónFormularios\\0-formularioLoging.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\js\\0-validaciónFormularios\\1-formularioResidente.js",
+      "PackagePath": "staticwebassets\\js\\0-validaciónFormularios\\1-formularioResidente.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\js\\0. Juanes.js",
+      "PackagePath": "staticwebassets\\js\\0. Juanes.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\js\\1-datatables\\datatables.js",
+      "PackagePath": "staticwebassets\\js\\1-datatables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\pc\\Desktop\\Stelnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Stel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Stel.props",
+      "PackagePath": "build\\Stel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Stel.props",
+      "PackagePath": "buildMultiTargeting\\Stel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Stel.props",
+      "PackagePath": "buildTransitive\\Stel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
