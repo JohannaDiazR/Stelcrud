@@ -194,7 +194,10 @@
 <body>
 
     <!-- Header -->
-    @if (Context.Request.Path.Value.Contains("paginainicioModulos"))
+    @if (Context.Request.Path.Value.Contains("paginainicioModulos") ||
+    Context.Request.Path.Value.Contains("Listar") ||
+    Context.Request.Path.Value.Contains("Guardar") ||
+    Context.Request.Path.Value.Contains("Editar"))
     {
         <!-- Navbar del Dashboard -->
         <nav class="navbar navbar-expand-lg" style="background-color: #0c4128;padding: 0.5rem 0.5rem;">
@@ -254,7 +257,11 @@
     @RenderBody()
 
     <!-- Footer -->
-    @if (Context.Request.Path.Value.Contains("paginainicioModulos"))
+    @if (Context.Request.Path.Value.Contains("paginainicioModulos") ||
+    Context.Request.Path.Value.Contains("Listar") ||
+    Context.Request.Path.Value.Contains("Guardar") ||
+    Context.Request.Path.Value.Contains("Editar"))
+
     {
         <!-- Footer para paginainicioModulos con texto en blanco -->
         <footer style="background-color: #0c4128; color: white;">
