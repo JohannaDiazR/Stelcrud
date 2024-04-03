@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Inicio de Sesión";
+}
+
+@model UsuarioModel
+
+<h1>Inicio de Sesión <i class="bi bi-shield-lock"></i></h1>
+
+<div class='Ingresar-container'>
+    <form asp-action="Ingresar" asp-controller="Usuarios" method="post">
+        <div class='form-group'>
+            <label asp-for="usuario" class="form-label">Usuario <i class="bi bi-person-bounding-box"></i></label>
+            <input asp-for="usuario" type="text" class="form-control" required />
+            <span asp-validation-for="usuario" class="text-danger"></span>
+        </div>
+        <div class='form-group'>
+            <label asp-for="contrasena" class="form-label">Contraseña <i class="bi bi-lock-fill"></i></label>
+            <input asp-for="contrasena" type="password" class="form-control" required />
+            <span asp-validation-for="contrasena" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Ingresar</button>
+    </form>
+</div>
