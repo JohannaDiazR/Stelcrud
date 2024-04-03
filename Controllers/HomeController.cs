@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor.Compilation;
 using Stel.Models;
 using System.Diagnostics;
@@ -33,10 +33,10 @@ namespace Stel.Controllers
         {
             return View();
         }
-        public IActionResult Ingresar() 
+        /*public IActionResult Ingresar() 
         {
             return View();
-        }
+        }*/
         public IActionResult paginainicioModulos() 
         {
             return View();
