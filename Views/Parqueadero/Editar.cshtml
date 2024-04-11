@@ -1,0 +1,57 @@
+﻿@model Stel.Models.ParqueaderoModel
+@{
+    ViewData["Title"] = "Editar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card">
+    <div class="card-header">
+        Editar Novedad
+    </div>
+    <div class="card-body">
+        <form asp-action="Editar" asp-controller="Parqueadero" method="post">
+
+            <input asp-for="id" type="hidden" class="form-control">
+            <div class="mb-3">
+                <label for="tipo_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Tipo Parqueadero</label>
+                <input type="text" asp-for="tipo_parqueadero" class="form-control" id="asunto" maxlength="65" placeholder="Carro/Moto Visitante/Propietario">
+                <span asp-validation-for="tipo_parqueadero" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="estado_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Estado Parqueadero</label>
+                <input type="text" asp-for="estado_parqueadero" class="form-control" id="descripcion" maxlength="65" placeholder="Habilitado / Inhabilitado">
+                <span asp-validation-for="estado_parqueadero" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="fec_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Fecha</label>
+                <input type="datetime-local" asp-for="fec_parqueadero" class="form-control" id="estado" maxlength="65" placeholder="Fecha">
+                <span asp-validation-for="fec_parqueadero" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="dvte_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Datos Vehículo</label>
+                <input type="text" asp-for="dvte_parqueadero" class="form-control" placeholder="Datos Vehículo">
+                <span asp-validation-for="dvte_parqueadero" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="cup_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Número de cupo</label>
+                <input type="number" asp-for="cup_parqueadero" class="form-control" id="remitente" aria-describedby="Remitente" maxlength="30" placeholder="Número de cupo">
+                <span asp-validation-for="cup_parqueadero" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="hora_salida" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Hora Salida</label>
+                <input type="datetime-local" asp-for="hora_salida" class="form-control" id="respuesta" maxlength="65" placeholder="Hora Salida">
+                <span asp-validation-for="hora_salida" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="tar_parqueadero" style="margin-top: 15px; margin-bottom: 10px; font-weight: 700; color:#1E4C40" class="form-label">Tarifa</label>
+                <input type="number" asp-for="tar_parqueadero" class="form-control" id="descripcion" maxlength="65" placeholder="Tarifa">
+                <span asp-validation-for="tar_parqueadero" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Guardar</button>
+            <a asp-action="Listar" asp-controller="Parqueadero" class="btn btn-warning">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+

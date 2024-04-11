@@ -1,0 +1,10 @@
+﻿@model ParqueaderoModel
+
+<h2>Confirmar Eliminación</h2>
+
+<p>¿Estás seguro de que quieres eliminar el parqueadero con el ID: @Model.id?</p>
+
+<form asp-action="Eliminar" asp-route-id="@Model.id" method="post">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Listar" class="btn btn-warning">Cancelar</a>
+</form>

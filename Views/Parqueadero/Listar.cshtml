@@ -1,0 +1,40 @@
+﻿@model List<ParqueaderoModel>
+
+<h2>Listado de Parqueadero</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tipo</th>
+            <th>Estado</th>
+            <th>Fecha</th>
+            <th>Datos Vehículo</th>
+            <th>Número de Cupo</th>
+            <th>Hora de Salida</th>
+            <th>Tarifa</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.tipo_parqueadero</td>
+                <td>@item.estado_parqueadero</td>
+                <td>@item.fec_parqueadero.ToString("dd/MM/yyyy")</td>
+                <td>@item.dvte_parqueadero</td>
+                <td>@item.cup_parqueadero</td>
+                <td>@item.hora_salida.ToString("dd/MM/yyyy")</td>
+                <td>@item.tar_parqueadero</td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@item.id" class="btn btn-primary">Editar</a>
+                    <a asp-action="Eliminar" asp-route-id="@item.id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Guardar", "Parqueadero")" class="btn btn-primary">Agregar Nuevo</a>
